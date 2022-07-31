@@ -8,3 +8,6 @@
 
 <h2>get_next_line</h2><a href="[https://github.com/JaeSeoKim/badge42](https://profile.intra.42.fr/users/salecler)" target=”_blank”><img src="https://badge42.vercel.app/api/v2/cl4wihxp0008809migsvxuh4t/project/2643043" alt="salecler's 42 get_next_line Score" /></a>
 
+<h2>ft_onion</h2><a href="[https://github.com/JaeSeoKim/badge42](https://profile.intra.42.fr/users/salecler)" target=”_blank”><img src="https://badge42.vercel.app/api/v2/cl4wihxp0008809migsvxuh4t/project/2659852" alt="salecler's 42 get_next_line Score" /></a>
+
+<h2>stockholm</h2><a href="[https://github.com/JaeSeoKim/badge42](https://profile.intra.42.fr/users/salecler)" target=”_blank”><img src="https://badge42.vercel.app/api/v2/cl4wihxp0008809migsvxuh4t/project/2668180" alt="salecler's 42 get_next_line Score" /></a>
