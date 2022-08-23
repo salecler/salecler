@@ -11,3 +11,7 @@
 <h2>ft_onion</h2><a href="[https://github.com/JaeSeoKim/badge42](https://profile.intra.42.fr/users/salecler)" target=”_blank”><img src="https://badge42.vercel.app/api/v2/cl4wihxp0008809migsvxuh4t/project/2659852" alt="salecler's 42 ft_onion Score" /></a>
 
 <h2>stockholm</h2><a href="[https://github.com/JaeSeoKim/badge42](https://profile.intra.42.fr/users/salecler)" target=”_blank”><img src="https://badge42.vercel.app/api/v2/cl4wihxp0008809migsvxuh4t/project/2668180" alt="salecler's 42 stockholm Score" /></a>
+
+<h2>born2beroot</h2><a href="https://github.com/salecler/Born2beroot"><img src="https://badge42.vercel.app/api/v2/cl4wihxp0008809migsvxuh4t/project/2721302" alt="salecler's 42 Born2beroot Score" /></a>
+
+<h2>ft_printf</h2><a href="https://github.com/salecler/ft_printf"><img src="https://badge42.vercel.app/api/v2/cl4wihxp0008809migsvxuh4t/project/2649419" alt="salecler's 42 ft_printf Score" /></a>
