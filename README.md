@@ -3,8 +3,9 @@
 
 
 <h1>Currently working on:</h1>
-  
- <h1> Projects. </h1>
+  [![salecler's 42 FdF Score](https://badge42.vercel.app/api/v2/cl4wihxp0008809migsvxuh4t/project/2927811)](https://github.com/JaeSeoKim/badge42)
+  [![salecler's 42 pipex Score](https://badge42.vercel.app/api/v2/cl4wihxp0008809migsvxuh4t/project/2763312)](https://github.com/JaeSeoKim/badge42)
+ <h1> Projects:</h1>
 <h2>libft</h2> <a href="[https://profile.intra.42.fr/users/salecler](https://projects.intra.42.fr/projects/42cursus-libft/projects_users/2620025)](https://projects.intra.42.fr/projects/42cursus-libft/projects_users/2620025)" target=”blank”><img src="https://badge42.vercel.app/api/v2/cl4wihxp0008809migsvxuh4t/project/2620025" alt="salecler's 42 Libft Score" target=”_blank”/></a>
 
 <h2>get_next_line</h2><a href="[https://github.com/JaeSeoKim/badge42](https://profile.intra.42.fr/users/salecler)" target=”_blank”><img src="https://badge42.vercel.app/api/v2/cl4wihxp0008809migsvxuh4t/project/2643043" alt="salecler's 42 get_next_line Score" /></a>
