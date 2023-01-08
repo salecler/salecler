@@ -3,8 +3,8 @@
 
 
 <h1>Currently working on:</h1>
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl4wihxp0008809migsvxuh4t/project/2927811" alt="salecler's 42 FdF Score" /></a>
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl4wihxp0008809migsvxuh4t/project/2763312" alt="salecler's 42 pipex Score" /></a>
+<h2>FdF</h2><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl4wihxp0008809migsvxuh4t/project/2927811" alt="salecler's 42 FdF Score" /></a>
+<h2>Pipex</h2><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl4wihxp0008809migsvxuh4t/project/2763312" alt="salecler's 42 pipex Score" /></a>
 
  <h1> Projects:</h1>
 <h2>libft</h2> <a href="[https://profile.intra.42.fr/users/salecler](https://projects.intra.42.fr/projects/42cursus-libft/projects_users/2620025)](https://projects.intra.42.fr/projects/42cursus-libft/projects_users/2620025)" target=”blank”><img src="https://badge42.vercel.app/api/v2/cl4wihxp0008809migsvxuh4t/project/2620025" alt="salecler's 42 Libft Score" target=”_blank”/></a>
